@@ -1,5 +1,3 @@
-# PythonTemplateRepo
+## Matrix Testing
 
-IDS-706 Mini Project 1: Create a template repository for python projects
-
-This repository contains .devcontainer, .gitigmore, Makefile, Github Actions, requirements.txt, python test code, and README.md.
+IDS-706 Mini Project 4: Use matrix testing to test your code with different versions of python and different OS systems.
